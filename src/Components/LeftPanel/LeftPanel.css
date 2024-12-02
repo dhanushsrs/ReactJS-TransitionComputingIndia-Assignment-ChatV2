@@ -1,0 +1,23 @@
+.left-panel {
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  flex: 1;
+}
+
+.left-panel {
+  max-width: 300px;
+}
+
+button {
+  padding: 10px 15px;
+  border: none;
+  background-color: #3498db;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}

@@ -1,0 +1,36 @@
+.center-panel {
+  flex: 2;
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.conversation {
+  margin-bottom: 20px;
+}
+
+.conversation .message {
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 15px;
+  border: none;
+  background-color: #3498db;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  resize: none;
+}
